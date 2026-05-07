@@ -27,6 +27,7 @@ import {
   MicIcon,
   NotebookPenIcon,
   DatabaseIcon,
+  HeartIcon,
 } from "lucide-react"
 import type React from "react"
 import { useState } from "react"
@@ -129,6 +130,7 @@ export default function ToolsIUseSection() {
     { icon: BrainCircuitIcon, text: "ChatGPT" },
     { icon: MessageCircleIcon, text: "Claude.ai" },
     { icon: FileCodeIcon, text: "Claude Code" },
+    { icon: HeartIcon, text: "Lovable" },
     { icon: SparklesIcon, text: "Google Gemini" },
     { icon: ClipboardCheckIcon, text: "Optimal Workshop" },
     { icon: CodepenIcon, text: "CodePen" },
