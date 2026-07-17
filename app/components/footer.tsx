@@ -18,7 +18,7 @@ export default function Footer() {
           </Link>
           <div className="flex items-center gap-3">
             <Link
-              href="https://github.com/benbrasso-agile6"
+              href="https://github.com/benbrasso"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Ben Brasso's GitHub Profile"
@@ -46,7 +46,7 @@ export default function Footer() {
             custom components and image generation.
             <br />
             <Link
-              href="https://github.com/benbrasso-agile6/designbybenbrasso-website"
+              href="https://github.com/benbrasso/designbybenbrasso-website"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-sky-700 dark:hover:text-sky-400 transition-colors underline"
